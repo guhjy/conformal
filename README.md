@@ -1,6 +1,7 @@
 # Conformal Project
 ## Carnegie Mellon Conformal Inference Team: Max G'Sell, Jing Lei, Alessandro Rinaldo, Ryan Tibshirani, Larry Wasserman  
 **Maintained by Ryan Tibshirani**
+[Uncertainties in Predictive Inference: Out-of-Sample Fitting and Cross-Validation 2018](http://www.citeulike.org/user/guhjy/article/14661256)
 
 This project contains software tools for conformal inference. The current 
 emphasis is on conformal prediction in regression. Soon, we will add tools
